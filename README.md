@@ -48,7 +48,7 @@ Saya adalah seorang pengembang perangkat lunak (*Software Developer*) yang memil
 
 <br/>
 
-<h3 align="center">🐍 Contribution Snake</h3>
+<h3 align="center">🐍 Snake Momentoos</h3>
 <div align="center">
   <img src="https://github.com/adepanjaitan23/adepanjaitan23/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
@@ -66,8 +66,6 @@ Saya adalah seorang pengembang perangkat lunak (*Software Developer*) yang memil
   <a href="https://instagram.com/adepanjaitan_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-
-  <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=adepanjaitan23&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 
 </div>
