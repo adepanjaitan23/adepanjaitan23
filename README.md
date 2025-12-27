@@ -60,6 +60,7 @@ Saya adalah seorang pengembang perangkat lunak (*Software Developer*) yang memil
 <h3 align="center">🐍 Contribution Snake</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/snake.svg" alt="Snake Animation" />
+    <img src="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman.svg" alt="Pacman Animation" />
 </div>
 
 <div align="left">
