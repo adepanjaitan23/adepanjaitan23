@@ -43,16 +43,24 @@ Saya adalah seorang pengembang perangkat lunak (*Software Developer*) yang memil
 
 <h3 align="center">💻 Most Used Languages</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adepanjaitan23&layout=compact&theme=radical&cache_seconds=21600" alt="Top Languages" />
+  <img src="https://github-readme-stats.zcy.dev/api/top-langs/?username=adepanjaitan23&layout=compact&theme=radical" alt="Top Languages" />
 </div>
+
 <br/>
 
 <h3 align="left">Momentos</h3>
+###
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph-dark.svg?sanitize=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg?sanitize=true">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph.svg?sanitize=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph.svg">
 </picture>
+###
+
+<h3 align="center">🐍 Contribution Snake</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/snake.svg" alt="Snake Animation" />
+</div>
 
 <div align="left">
 
