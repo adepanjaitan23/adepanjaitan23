@@ -55,7 +55,7 @@ Saya seorang pengembang yang bersemangat menggabungkan **Hardware (IoT)** dengan
 </p>
 ---
 
-<div align="right">
+<div align="left">
   
   ### 📫 Connect with Me
   
