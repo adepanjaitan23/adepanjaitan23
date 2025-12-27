@@ -48,10 +48,14 @@ Saya adalah seorang pengembang perangkat lunak (*Software Developer*) yang memil
 
 <br/>
 
-<h3 align="center">🐍 Snake Momentoos</h3>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+<h3 align="center">Momentos</h3>
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+</picture>
+###
 
 <div align="left">
 
