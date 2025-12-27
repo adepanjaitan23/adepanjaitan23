@@ -123,10 +123,6 @@ Saya membangun perangkat lunak dengan pendekatan riset terapan: merumuskan masal
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adepanjaitan23&theme=radical" alt="GitHub Streak" />
 </div>
 
----
-
-## Jejak Kontribusi
-
 <div align="center">
   <img src="https://github.com/adepanjaitan23/adepanjaitan23/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
