@@ -43,19 +43,20 @@ Saya adalah seorang pengembang perangkat lunak (*Software Developer*) yang memil
 
 ### 💻 Most Used Languages
 <div align="center">
-  <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=adepanjaitan23&layout=compact&theme=github-dark&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adepanjaitan23&theme=github_dark" alt="Top Languages" />
 </div>
+
 <br/>
 
 ### 🎮 Momentos
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph-dark.svg?sanitize=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph.svg?sanitize=true">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph.svg?sanitize=true">
 </picture>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/snake.svg?sanitize=true" alt="Snake Animation" />
 </div>
 
 <div align="left">
