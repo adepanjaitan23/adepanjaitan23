@@ -42,19 +42,20 @@ Saya seorang pengembang yang bersemangat menggabungkan **Hardware (IoT)** dengan
 ---
 
 ### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adepanjaitan23&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-<div align="center">
-<a href="https://github.com/adepanjaitan23">
-    <img src="https://github-readme-stats.vercel.app/api?username=adepanjaitan23&show_icons=true&theme=radical&count_private=true" alt="adepanjaitan23's github stats" />
-  </a>
- <br/>
-  <a href="https://github.com/adepanjaitan23">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adepanjaitan23&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adepanjaitan23&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adepanjaitan23&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 ---
 
-<div align="center">
+<div align="right">
   
   ### 📫 Connect with Me
   
