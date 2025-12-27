@@ -43,7 +43,11 @@ Saya adalah seorang pengembang perangkat lunak (*Software Developer*) yang memil
 
 ### 📊 GitHub Stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/adepanjaitan23?cardType=github&theme=github-dark&fontFamily=&preferLogin=true&Points.Commits=5&Points.ContributedToOwnRepositories=10&Points.CreatedRepositories=10&Points.DirectStars=4&Points.Followers=5&Points.IndirectStars=5&Points.Issues=5&Points.PullRequests=5&Points.CommitsToMyRepositories=5&Points.ContributedTo=5&borderRadius=5)](https://git.io/awesome-stats-card)
+<div align="center">
+  <a href="https://github.com/adepanjaitan23">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/adepanjaitan23?cardType=github&theme=radical&fontFamily=Fira%20Code&preferLogin=true" alt="GitHub Stats" />
+  </a>
+</div>
 
 ---
 
