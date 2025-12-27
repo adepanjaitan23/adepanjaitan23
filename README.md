@@ -49,18 +49,14 @@ Saya adalah seorang pengembang perangkat lunak (*Software Developer*) yang memil
 <br/>
 
 <h3 align="left">Momentos</h3>
-###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph.svg">
 </picture>
-###
 
-<h3 align="center">🐍 Contribution Snake</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/snake.svg" alt="Snake Animation" />
-    <img src="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman.svg" alt="Pacman Animation" />
 </div>
 
 <div align="left">
