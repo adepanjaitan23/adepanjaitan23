@@ -43,10 +43,8 @@ Saya adalah seorang pengembang perangkat lunak (*Software Developer*) yang memil
 
 <h3 align="center">💻 Most Used Languages</h3>
 <div align="center">
-  <img src="https://github-readme-stats.zcy.dev/api/top-langs/?username=adepanjaitan23&layout=compact&theme=radical&v=1" alt="Top Languages" />
-
+  <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=adepanjaitan23&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 </div>
-
 <br/>
 
 <h3 align="left">Momentos</h3>
