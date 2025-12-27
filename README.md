@@ -1,85 +1,63 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
+# Hi there, I'm Ade Rizky Panjaitan! 👋
 
-###
+🎓 **Student | AI Enthusiast | IoT Developer**
 
-<h1 align="center">Hey 👋What's Up?</h1>
+Saya seorang pengembang perangkat lunak yang berfokus pada integrasi kecerdasan buatan (*Artificial Intelligence*) dengan perangkat keras (*IoT*), serta pengembangan aplikasi web berbasis data. Senang bereksperimen dengan TensorFlow, ESP32, dan Algoritma Struktur Data.
 
-###
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-</div>
+## 🛠️ Tech Stack
 
-###
+**Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-<br clear="both">
+**Machine Learning & Data**
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+**Web & IoT**
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 
-###
+---
 
-<br clear="both">
+## 🚀 Featured Projects
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
+Berikut adalah beberapa proyek unggulan yang telah saya kerjakan:
 
-###
+### 🫁 [PnueScan: AI Pneumonia Detection](https://github.com/adepanjaitan23/pnuescan)
+Aplikasi web berbasis **Flask** dan **TensorFlow** untuk mendeteksi indikasi Pneumonia dari citra X-Ray dada secara instan menggunakan Deep Learning (CNN).
+* **Tech:** Python, Flask, TensorFlow/Keras, HTML/CSS.
+
+### 🤖 [Smart Controller & TinyML](https://github.com/adepanjaitan23/mikrokontroler)
+Implementasi sistem IoT dan AI pada perangkat keras (**Edge AI**). Proyek ini mencakup kontrol motor DC berbasis PWM/RPM dan deteksi pola menggunakan model LSTM yang dijalankan langsung di mikrokontroler ESP32.
+* **Tech:** ESP32, C++, Python (Training), MQTT, TinyML.
+
+### ✈️ [Flight Scheduling System](https://github.com/adepanjaitan23/penjadwalan_penerbangan)
+Simulasi sistem manajemen jadwal penerbangan yang efisien menggunakan struktur data tingkat lanjut (**BST & AVL Tree**) untuk pencarian dan penyortiran data berkecepatan tinggi.
+* **Tech:** C Language, Data Structures (Tree Algorithms).
+
+### 📈 [Linear & Logistic Regression Analysis](https://github.com/adepanjaitan23/prediksi-data-linear-logistic)
+Studi komparatif dan implementasi algoritma Machine Learning klasik untuk prediksi data numerik dan klasifikasi kategori.
+* **Tech:** Python, Jupyter Notebook, Scikit-Learn.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=adepanjaitan23&show_icons=true&theme=radical" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adepanjaitan23&layout=compact&theme=radical" height="150" alt="languages graph" />
 </div>
 
-###
+---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aderizkypanjaitan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/adepanjaitan_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="aderizkypan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+  Requires collaboration? Reach me out! <br/>
+  📫 <a href="mailto:emailmu@example.com">emailmu@example.com</a>
 </div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
