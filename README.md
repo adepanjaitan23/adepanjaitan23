@@ -33,8 +33,8 @@ Saya adalah seorang pengembang perangkat lunak (*Software Developer*) yang memil
 | **✈️ [Flight Scheduler](https://github.com/adepanjaitan23/penjadwalan_penerbangan)** | **System Simulation.** Manajemen jadwal yang efisien menggunakan struktur data tingkat lanjut. | `C` `Algorithms` |
 | **📊 [Data Predictions](https://github.com/adepanjaitan23/prediksi-data-linear-logistic)** | **Data Analysis.** Studi komparasi dan implementasi model prediksi statistik. | `Jupyter` `Scikit-Learn` |
 
-### 📊 GitHub Stats
-<table align="center">
+### 📊 GitHub & Language Stats 
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
     <td align="center" valign="top">
       <img
