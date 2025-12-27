@@ -45,10 +45,8 @@ Saya adalah seorang pengembang perangkat lunak (*Software Developer*) yang memil
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adepanjaitan23&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-
 <br/>
-
-<h3 align="center">Momentos</h3>
+<h3 align="left">Momentos</h3>
 ###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
