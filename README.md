@@ -40,7 +40,19 @@ Saya adalah seorang pengembang perangkat lunak (*Software Developer*) yang memil
   </a>
 </div>
 
+<h3 align="center">💻 Most Used Languages</h3>
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adepanjaitan23&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+<br/>
+
+<h3 align="center">🐍 Contribution Snake</h3>
+<div align="center">
+  <img src="https://github.com/adepanjaitan23/adepanjaitan23/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+<div align="left">
   
   ### 📫 Let's Connect
   
