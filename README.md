@@ -6,8 +6,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
 </div>
 
----
-
 ### 👨‍💻 About Me
 
 Saya adalah seorang pengembang perangkat lunak (*Software Developer*) yang memiliki ketertarikan kuat dalam membangun aplikasi yang efisien dan solutif. Saya senang mengeksplorasi berbagai teknologi baru, mulai dari pengembangan web hingga sistem cerdas, dan selalu antusias untuk memecahkan masalah kompleks melalui kode.
@@ -16,8 +14,6 @@ Saya adalah seorang pengembang perangkat lunak (*Software Developer*) yang memil
 * 🌱 **Focus:** Terus belajar dan meningkatkan keahlian dalam *Modern Tech Stack*.
 * 🤝 **Collaboration:** Terbuka untuk diskusi, kolaborasi proyek, dan berbagi ide.
 
----
-
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -25,10 +21,7 @@ Saya adalah seorang pengembang perangkat lunak (*Software Developer*) yang memil
 | **Languages** | **Frameworks & AI** | **Hardware & IoT** | **Tools** |
 |:---:|:---:|:---:|:---:|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) <br> ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) <br> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) <br> ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) <br> ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) <br> ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) <br> ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
-
 </div>
-
----
 
 ### 🏆 Featured Projects
 
@@ -39,8 +32,6 @@ Saya adalah seorang pengembang perangkat lunak (*Software Developer*) yang memil
 | **✈️ [Flight Scheduler](https://github.com/adepanjaitan23/penjadwalan_penerbangan)** | **System Simulation.** Manajemen jadwal yang efisien menggunakan struktur data tingkat lanjut. | `C` `Algorithms` |
 | **📊 [Data Predictions](https://github.com/adepanjaitan23/prediksi-data-linear-logistic)** | **Data Analysis.** Studi komparasi dan implementasi model prediksi statistik. | `Jupyter` `Scikit-Learn` |
 
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -48,8 +39,6 @@ Saya adalah seorang pengembang perangkat lunak (*Software Developer*) yang memil
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/adepanjaitan23?cardType=github&theme=github-dark&fontFamily=Fira%20Code&preferLogin=true" alt="GitHub Stats" />
   </a>
 </div>
-
----
 
 <div align="center">
   
