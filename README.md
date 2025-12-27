@@ -50,7 +50,7 @@ Saya adalah seorang pengembang perangkat lunak (*Software Developer*) yang memil
 
 <h3 align="center">🐍 Snake Momentoos</h3>
 <div align="center">
-  <img src="https://github.com/adepanjaitan23/adepanjaitan23/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 <div align="left">
