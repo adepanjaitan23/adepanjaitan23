@@ -45,7 +45,7 @@ Saya adalah seorang pengembang perangkat lunak (*Software Developer*) yang memil
 
 <div align="center">
   <a href="https://github.com/adepanjaitan23">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/adepanjaitan23?cardType=github&theme=radical&fontFamily=Fira%20Code&preferLogin=true" alt="GitHub Stats" />
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/adepanjaitan23?cardType=github&theme=github-dark&fontFamily=Fira%20Code&preferLogin=true" alt="GitHub Stats" />
   </a>
 </div>
 
