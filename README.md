@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B;I'm+Ade+Rizky+Panjaitan;AI+%26+IoT+Developer;Code.+Train.+Deploy." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B;I'm+Ade+Rizky+Panjaitan;Software+Developer;Code.+Build.+Innovate." alt="Typing SVG" />
 </div>
+
 <div align="center">
-  <h3>🚀 Student | Artificial Intelligence | Embedded Systems</h3>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
 </div>
 
@@ -10,11 +10,11 @@
 
 ### 👨‍💻 About Me
 
-Saya seorang pengembang yang bersemangat menggabungkan **Hardware (IoT)** dengan **Kecerdasan Buatan (AI)**. Saya suka membangun sistem cerdas, mulai dari deteksi penyakit via X-Ray hingga kontrol motor dengan algoritma Deep Learning.
+Saya adalah seorang pengembang perangkat lunak (*Software Developer*) yang memiliki ketertarikan kuat dalam membangun aplikasi yang efisien dan solutif. Saya senang mengeksplorasi berbagai teknologi baru, mulai dari pengembangan web hingga sistem cerdas, dan selalu antusias untuk memecahkan masalah kompleks melalui kode.
 
-- 🔭 I’m currently working on **Edge AI & TinyML Projects**
-- 🌱 I’m currently learning **Advanced Computer Vision**
-- ⚡ Fun fact: **I can make hardware think!** 🤖
+* 🚀 **Passion:** Membangun solusi teknologi yang bermanfaat dan *scalable*.
+* 🌱 **Focus:** Terus belajar dan meningkatkan keahlian dalam *Modern Tech Stack*.
+* 🤝 **Collaboration:** Terbuka untuk diskusi, kolaborasi proyek, dan berbagi ide.
 
 ---
 
@@ -22,9 +22,9 @@ Saya seorang pengembang yang bersemangat menggabungkan **Hardware (IoT)** dengan
 
 <div align="center">
 
-| **Languages** | **AI & Data** | **IoT & Hardware** | **Tools** |
+| **Languages** | **Frameworks & AI** | **Hardware & IoT** | **Tools** |
 |:---:|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) <br> ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) <br> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) <br> ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) <br> ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) <br> ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) <br> ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) <br> ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) <br> ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) <br> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) <br> ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) <br> ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) <br> ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) <br> ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
 
 </div>
 
@@ -34,30 +34,30 @@ Saya seorang pengembang yang bersemangat menggabungkan **Hardware (IoT)** dengan
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🫁 [PnueScan](https://github.com/adepanjaitan23/pnuescan)** | **AI Pneumonia Detection.** Aplikasi web untuk mendeteksi pneumonia dari X-Ray paru-paru secara *real-time*. | `Python` `Flask` `TensorFlow` |
-| **🤖 [TinyML Controller](https://github.com/adepanjaitan23/mikrokontroler)** | **Smart IoT System.** Implementasi LSTM pada ESP32 untuk kontrol motor dan monitoring RPM. | `ESP32` `C++` `TinyML` |
-| **✈️ [Flight Scheduler](https://github.com/adepanjaitan23/penjadwalan_penerbangan)** | **Data Structure Simulation.** Sistem manajemen jadwal penerbangan menggunakan AVL Tree & BST. | `C` `Data Structures` |
-| **📊 [ML Predictions](https://github.com/adepanjaitan23/prediksi-data-linear-logistic)** | **Data Analysis.** Studi komparasi algoritma Linear & Logistic Regression. | `Jupyter` `Scikit-Learn` |
+| **🫁 [PnueScan](https://github.com/adepanjaitan23/pnuescan)** | **AI Detection System.** Aplikasi web cerdas untuk analisis citra medis secara *real-time*. | `Python` `Flask` `TensorFlow` |
+| **🤖 [TinyML Controller](https://github.com/adepanjaitan23/mikrokontroler)** | **Smart IoT System.** Implementasi algoritma cerdas pada mikrokontroler untuk kontrol otomatis. | `ESP32` `C++` `TinyML` |
+| **✈️ [Flight Scheduler](https://github.com/adepanjaitan23/penjadwalan_penerbangan)** | **System Simulation.** Manajemen jadwal yang efisien menggunakan struktur data tingkat lanjut. | `C` `Algorithms` |
+| **📊 [Data Predictions](https://github.com/adepanjaitan23/prediksi-data-linear-logistic)** | **Data Analysis.** Studi komparasi dan implementasi model prediksi statistik. | `Jupyter` `Scikit-Learn` |
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adepanjaitan23&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adepanjaitan23&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adepanjaitan23&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![Ade's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adepanjaitan23&show_icons=true&theme=radical)
+
+![Ade's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adepanjaitan23&layout=compact&theme=radical)
+
+![Ade's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adepanjaitan23&theme=radical&hide_border=true)
+
+</div>
+
 ---
 
-<div align="left">
+<div align="center">
   
-  ### 📫 Connect with Me
+  ### 📫 Let's Connect
   
   <a href="mailto:aderizkypan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
