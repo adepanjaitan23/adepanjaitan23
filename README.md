@@ -41,13 +41,13 @@ Saya adalah seorang pengembang perangkat lunak (*Software Developer*) yang memil
   </a>
 </div>
 
-###💻 Most Used Languages
+### 💻 Most Used Languages
 <div align="center">
   <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=adepanjaitan23&layout=compact&theme=github-dark&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 </div>
 <br/>
 
-<h3 align="left">Momentos</h3>
+### 🎮 Momentos
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph.svg">
