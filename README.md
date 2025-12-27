@@ -34,7 +34,7 @@ Saya adalah seorang pengembang perangkat lunak (*Software Developer*) yang memil
 | **📊 [Data Predictions](https://github.com/adepanjaitan23/prediksi-data-linear-logistic)** | **Data Analysis.** Studi komparasi dan implementasi model prediksi statistik. | `Jupyter` `Scikit-Learn` |
 
 ### 📊 GitHub & Language Stats 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse; border:none;">  
   <tr>
     <td align="center" valign="top">
       <img
