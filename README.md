@@ -4,11 +4,6 @@
     alt="Most Used Languages"
     width="420"
   />
-  <img
-    src="https://awesome-github-stats.azurewebsites.net/user-stats/adepanjaitan23?cardType=github&theme=github-dark&fontFamily=Fira%20Code&preferLogin=true&Border=transparent"
-    alt="GitHub Stats"
-    width="420"
-  />
 </div>
 
 <!-- Tambahan Skill Radar Chart -->
