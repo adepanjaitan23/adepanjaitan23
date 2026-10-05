@@ -1,6 +1,6 @@
 <div align="center">
-  <table>
-    <tr>
+  <table border="0" cellpadding="0" cellspacing="0" style="border: none; background: transparent; border-collapse: collapse;">
+    <tr style="border: none;">
       <td align="center" valign="middle" style="border: none; background: transparent;">
         <img
           src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adepanjaitan23&theme=github_dark"
