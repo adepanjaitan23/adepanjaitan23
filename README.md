@@ -1,6 +1,3 @@
-<div align="center">
-  <h3>⚡ Technical Skill Stats</h3>  
-</div>
 <div align="left">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adepanjaitan23&theme=github_dark"
