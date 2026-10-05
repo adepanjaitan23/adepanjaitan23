@@ -4,20 +4,33 @@
     alt="Most Used Languages"
     width="420"
   />
-    <img
+  <img
     src="https://awesome-github-stats.azurewebsites.net/user-stats/adepanjaitan23?cardType=github&theme=github-dark&fontFamily=Fira%20Code&preferLogin=true&Border=transparent"
     alt="GitHub Stats"
     width="420"
   />
 </div>
+
+<!-- Tambahan Skill Radar Chart -->
+<div align="center">
+  <h3>⚡ Technical Skill Stats</h3>
+  <img 
+    src="https://quickchart.io/chart?w=450&h=450&bkg=transparent&c={type:'radar',data:{labels:['Machine Learning','Computer Vision','Deep Learning','Data Science','Python','Databases'],datasets:[{data:[90,85,80,75,95,70],backgroundColor:'rgba(0, 191, 255, 0.5)',borderColor:'rgb(0, 191, 255)',pointBackgroundColor:'rgb(0, 191, 255)',borderWidth:2}]},options:{legend:{display:false},scale:{pointLabels:{fontColor:'white',fontSize:14,fontStyle:'bold'},gridLines:{color:'rgba(255,255,255,0.1)'},angleLines:{color:'rgba(255,255,255,0.2)'},ticks:{display:false,min:0,max:100}}}}" 
+    alt="Skill Radar Chart" 
+    width="450"
+  />
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph-dark.svg?sanitize=true">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph.svg?sanitize=true">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph.svg?sanitize=true">
 </picture>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/snake.svg?sanitize=true" alt="Snake Animation" />
 </div>
+
 <div align="left">
 
   ### 📫 Let's Connect
@@ -31,6 +44,7 @@
   <a href="https://instagram.com/adepanjaitan_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  
   <img src="https://komarev.com/ghpvc/?username=adepanjaitan23&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 
 </div>
