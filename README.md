@@ -9,7 +9,7 @@
     align="right" 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adepanjaitan23&theme=github_dark" 
     alt="Most Used Languages" 
-    height="400" 
+    height="550" 
   />
 </div>
 <br clear="both" />
