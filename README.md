@@ -1,4 +1,3 @@
-
 <div>
   <img 
     align="center" 
@@ -27,38 +26,27 @@
 
 <div align="center">
 
-## Let's Connect
+### 📫 Let's Connect
 
-  <p>
-    <i>Have an idea, project, or just want to talk about AI & Machine Learning?</i>
-  </p>
+<a href="mailto:aderizkypan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-2563eb?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/aderizkypanjaitan">
+  <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/adepanjaitan23">
+  <img src="https://img.shields.io/badge/GitHub-2563eb?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://instagram.com/adepanjaitan_">
+  <img src="https://img.shields.io/badge/Instagram-2563eb?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-  <br />
+<br><br>
 
-  <a href="mailto:aderizkypan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/aderizkypanjaitan">
-    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/adepanjaitan23">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://instagram.com/adepanjaitan_">
-    <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
-  </a>
+<img src="https://komarev.com/ghpvc/?username=adepanjaitan23&label=Profile%20Views&color=2563eb&style=flat-square" />
 
-  <br />
-  <br />
+<br><br>
 
-<img 
- src="https://komarev.com/ghpvc/?username=adepanjaitan23&label=Profile%20Views&color=2563eb&style=flat-square"
- alt="Profile Views"
-/>
-
-  <br />
-  <br />
-
-<sub>📍 Indonesia · 🤖 AI & Machine Learning · 💻 Building things with code</sub>
+<sub>Let's build something interesting.</sub>
 
 </div>
