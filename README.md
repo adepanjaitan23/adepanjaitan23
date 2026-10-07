@@ -39,9 +39,8 @@
 </a>
 <a href="https://instagram.com/adepanjaitan_">
   <img src="https://img.shields.io/badge/Instagram-2563eb?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<br>
+</a><br>
 <img src="https://komarev.com/ghpvc/?username=adepanjaitan23&label=Profile%20Views&color=2563eb&style=flat-square" />
+<br>
 <sub>Let's build something interesting.</sub>
-
 </div>
