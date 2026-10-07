@@ -24,7 +24,7 @@
   <img src="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/snake.svg?sanitize=true" alt="Snake Animation" />
 </div>
 
-<div align="center">
+<div align="left">
 
 ### 📫 Let's Connect
 
@@ -40,13 +40,8 @@
 <a href="https://instagram.com/adepanjaitan_">
   <img src="https://img.shields.io/badge/Instagram-2563eb?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
-<br><br>
-
+<br>
 <img src="https://komarev.com/ghpvc/?username=adepanjaitan23&label=Profile%20Views&color=2563eb&style=flat-square" />
-
-<br><br>
-
 <sub>Let's build something interesting.</sub>
 
 </div>
