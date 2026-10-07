@@ -25,22 +25,40 @@
   <img src="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/snake.svg?sanitize=true" alt="Snake Animation" />
 </div>
 
-<div align="left">
+<div align="center">
 
-  ### 📫 Let's Connect
+## Let's Connect
+
+  <p>
+    <i>Have an idea, project, or just want to talk about AI & Machine Learning?</i>
+  </p>
+
+  <br />
 
   <a href="mailto:aderizkypan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/aderizkypanjaitan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/adepanjaitan23">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://instagram.com/adepanjaitan_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
   </a>
-  
-  <img src="https://komarev.com/ghpvc/?username=adepanjaitan23&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+
+  <br />
+  <br />
+
+<img 
+ src="https://komarev.com/ghpvc/?username=adepanjaitan23&label=Profile%20Views&color=2563eb&style=flat-square"
+ alt="Profile Views"
+/>
+
+  <br />
+  <br />
+
+<sub>📍 Indonesia · 🤖 AI & Machine Learning · 💻 Building things with code</sub>
 
 </div>
-<br clear="both" />
-<br />
