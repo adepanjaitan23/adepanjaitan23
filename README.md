@@ -17,7 +17,7 @@
 </div>
 <br>
 
-<a href="https://github.com/adepanjaitan23">
+<a href="https://github.com/adepanjaitan23" align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=adepanjaitan23&show_icons=true&theme=github_dark&hide_border=true&icon_color=2563eb&title_color=2563eb" alt="GitHub Stats" />
 </a>
 
