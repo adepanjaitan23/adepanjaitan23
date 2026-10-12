@@ -48,9 +48,7 @@
 </a>
 
 <br><br>
-
-<img src="https://profile-counter.glitch.me/adepanjaitan23/count.svg" alt="Profile Views" />
-
+<img src="https://visitcount.itsvg.in/api?id=adepanjaitan23&label=Profile%20Views&color=12&icon=0&pretty=true" alt="Profile Views" />
 <br><br>
 <sub>📍 Indonesia · 🤖 AI & Machine Learning · 💻 Building things with code</sub>
 </div>
