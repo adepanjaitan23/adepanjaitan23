@@ -28,6 +28,8 @@
 
 <div align="center">
 
+<div align="center">
+
 ### 📫 Let's Connect
 
 <a href="mailto:aderizkypan@gmail.com">
@@ -43,13 +45,6 @@
   <img src="https://img.shields.io/badge/Instagram-2563eb?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=adepanjaitan23&label=Profile%20Views&color=2563eb&style=flat-square)
-
-<br>
-<sub>📍 Indonesia · 🤖 AI & Machine Learning · 💻 Building things with code</sub>
-</div>
 <br><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adepanjaitan23&label=Profile%20Views&color=2563eb&style=flat-square)
