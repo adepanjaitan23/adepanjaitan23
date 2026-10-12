@@ -49,7 +49,7 @@
 
 <br><br>
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fadepanjaitan23&count_bg=%232563EB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true" alt="Profile Views"/>
+<img src="https://profile-counter.glitch.me/adepanjaitan23/count.svg" alt="Profile Views" />
 
 <br><br>
 <sub>📍 Indonesia · 🤖 AI & Machine Learning · 💻 Building things with code</sub>
