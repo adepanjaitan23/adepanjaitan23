@@ -45,5 +45,6 @@
 
 <br>
 ![Profile Views](https://komarev.com/ghpvc/?username=adepanjaitan23&label=Profile%20Views&color=2563eb&style=flat-square)
+<br>
 <sub>📍 Indonesia · 🤖 AI & Machine Learning · 💻 Building things with code</sub>
 </div>
