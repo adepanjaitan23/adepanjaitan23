@@ -19,7 +19,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph.svg?sanitize=true">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph.svg?sanitize=true">
 </picture>
+<br>
 
+<a href="https://github.com/adepanjaitan23">
+  <img src="https://github-readme-stats.vercel.app/api?username=adepanjaitan23&show_icons=true&theme=github_dark&hide_border=true&icon_color=2563eb&title_color=2563eb" alt="GitHub Stats" />
+</a>
+
+<br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/snake.svg?sanitize=true" alt="Snake Animation" />
 </div>
@@ -49,12 +55,6 @@
   <img src="https://img.shields.io/badge/Instagram-2563eb?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-<br><br>
-
-<a href="https://github.com/adepanjaitan23">
-  <img src="https://github-readme-stats.vercel.app/api?username=adepanjaitan23&show_icons=true&theme=github_dark&hide_border=true&icon_color=2563eb&title_color=2563eb" alt="GitHub Stats" />
-</a>
-
-<br><br>
+<br>
 <sub>📍 Indonesia · 🤖 AI & Machine Learning · 💻 Building things with code</sub>
 </div>
