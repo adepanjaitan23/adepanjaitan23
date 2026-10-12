@@ -8,7 +8,7 @@
 
   <a href="https://github.com/adepanjaitan23">
     <img 
-      align="right"
+      align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=adepanjaitan23&layout=donut&theme=github_dark&hide_border=true&langs_count=6&card_width=330&custom_title=Most%20Used%20Languages"
       alt="Most Used Languages"
       height="320"
