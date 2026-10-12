@@ -30,6 +30,8 @@
 
 <div align="center">
 
+<div align="center">
+
 ### 📫 Let's Connect
 
 <a href="mailto:aderizkypan@gmail.com">
@@ -47,8 +49,8 @@
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=adepanjaitan23&label=Profile%20Views&color=2563eb&style=flat-square)
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fadepanjaitan23&count_bg=%232563EB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true" alt="Profile Views"/>
 
-<br>
+<br><br>
 <sub>📍 Indonesia · 🤖 AI & Machine Learning · 💻 Building things with code</sub>
 </div>
