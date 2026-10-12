@@ -15,18 +15,25 @@
     />
   </a>
 </div>
-<br>
-
-<a href="https://github.com/adepanjaitan23" align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=adepanjaitan23&show_icons=true&theme=github_dark&hide_border=true&icon_color=2563eb&title_color=2563eb" alt="GitHub Stats" />
-</a>
 
 <br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph-dark.svg?sanitize=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph.svg?sanitize=true">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph.svg?sanitize=true">
-</picture>
+
+<!-- Bagian Baru: GitHub Streak Stats di tengah, diletakkan sebelum Pacman -->
+<div align="center">
+  <a href="https://github.com/adepanjaitan23">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adepanjaitan23&theme=github-dark&hide_border=true&ring=2563eb&fire=2563eb&currStreakNum=ffffff" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph-dark.svg?sanitize=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph.svg?sanitize=true">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph.svg?sanitize=true">
+  </picture>
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/snake.svg?sanitize=true" alt="Snake Animation" />
@@ -37,18 +44,18 @@
 ### 📫 Let's Connect
 
 <a href="mailto:aderizkypan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://linkedin.com/in/aderizkypanjaitan">
-  <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/adepanjaitan23">
-  <img src="https://img.shields.io/badge/GitHub-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://instagram.com/adepanjaitan_">
-  <img src="https://img.shields.io/badge/Instagram-2563eb?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-2563eb?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
-<br>
+<br><br>
 <sub>📍 Indonesia · 🤖 AI & Machine Learning · 💻 Building things with code</sub>
 </div>
