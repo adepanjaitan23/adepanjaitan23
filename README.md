@@ -19,9 +19,9 @@
 <br>
 
 <!-- Bagian Baru: GitHub Streak Stats di tengah, diletakkan sebelum Pacman -->
-<div align="left">
+<div align="center">
   <a href="https://github.com/adepanjaitan23">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adepanjaitan23&theme=github-dark&hide_border=true&ring=2563eb&fire=2563eb&currStreakNum=ffffff" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adepanjaitan23&theme=github-dark&hide_border=true&ring=3000eb&fire=2563eb&currStreakNum=ffffff" alt="GitHub Streak" />
   </a>
 </div>
 
