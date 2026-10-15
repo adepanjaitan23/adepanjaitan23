@@ -55,7 +55,6 @@
 <a href="https://instagram.com/adepanjaitan_">
   <img src="https://img.shields.io/badge/Instagram-2563eb?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-
-<br><br>
+---
 <sub>📍 Indonesia · 🤖 AI & Machine Learning · 💻 Building things with code</sub>
 </div>
