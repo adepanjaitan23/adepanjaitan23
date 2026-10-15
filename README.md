@@ -42,7 +42,7 @@
 <div align="center">
 
 ### 📫 Let's Connect
-
+<div align="center">
 <a href="mailto:aderizkypan@gmail.com">
   <img src="https://img.shields.io/badge/Email-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
@@ -55,6 +55,7 @@
 <a href="https://instagram.com/adepanjaitan_">
   <img src="https://img.shields.io/badge/Instagram-2563eb?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
----
+</div>
+
 <sub>📍 Indonesia · 🤖 AI & Machine Learning · 💻 Building things with code</sub>
 </div>
