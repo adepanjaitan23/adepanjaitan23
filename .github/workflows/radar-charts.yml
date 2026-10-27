@@ -1,4 +1,4 @@
-name: Update Skill Map Radar Charts
+name: Skill Map Radar Charts
 
 on:
   schedule:
