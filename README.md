@@ -1,8 +1,3 @@
-
-<!-- ================================================== -->
-<!-- SKILL MAP: RADAR CHART & MOST USED LANGUAGES       -->
-<!-- ================================================== -->
-
 <h2 align="center">Skill Map</h2>
 
 <table align="center">
