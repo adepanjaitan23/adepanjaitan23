@@ -8,7 +8,7 @@
 </linearGradient>
 </defs>
 <text x="450.0" y="42.0" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="700" fill="#C9D1D9">GITHUB ACTIVITY RADAR</text>
-<text x="450.0" y="68.0" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="400" fill="#8B949E">Public GitHub activity · @adepanjaitan23 · normalized display scale 0–100</text>
+<text x="450.0" y="68.0" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="400" fill="#8B949E">Public repository metadata + recent public events · @adepanjaitan23</text>
 <polygon points="450.0,282.4 483.9,307.0 470.9,346.8 429.1,346.8 416.1,307.0" fill="none" stroke="#30363D" stroke-width="1"/>
 <text x="458.0" y="286.4" text-anchor="start" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9" font-weight="400" fill="#6E7681">20</text>
 <polygon points="450.0,246.8 517.7,296.0 491.9,375.6 408.1,375.6 382.3,296.0" fill="none" stroke="#30363D" stroke-width="1"/>
@@ -23,11 +23,11 @@
 <line x1="450.0" y1="318.0" x2="554.6" y2="462.0" stroke="#30363D" stroke-width="1"/>
 <line x1="450.0" y1="318.0" x2="345.4" y2="462.0" stroke="#30363D" stroke-width="1"/>
 <line x1="450.0" y1="318.0" x2="280.7" y2="263.0" stroke="#30363D" stroke-width="1"/>
-<polygon points="450.0,193.4 555.8,283.6 544.2,447.6 450.0,318.0 450.0,318.0" fill="url(#areaFill)" stroke="#00BFFF" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="450.0,193.4 555.8,283.6 544.2,447.6 345.4,462.0 450.0,318.0" fill="url(#areaFill)" stroke="#00BFFF" stroke-width="3" stroke-linejoin="round"/>
 <circle cx="450.0" cy="193.4" r="5" fill="#00BFFF" stroke="#0D1117" stroke-width="2"/>
 <circle cx="555.8" cy="283.6" r="5" fill="#00BFFF" stroke="#0D1117" stroke-width="2"/>
 <circle cx="544.2" cy="447.6" r="5" fill="#00BFFF" stroke="#0D1117" stroke-width="2"/>
-<circle cx="450.0" cy="318.0" r="5" fill="#00BFFF" stroke="#0D1117" stroke-width="2"/>
+<circle cx="345.4" cy="462.0" r="5" fill="#00BFFF" stroke="#0D1117" stroke-width="2"/>
 <circle cx="450.0" cy="318.0" r="5" fill="#00BFFF" stroke="#0D1117" stroke-width="2"/>
 <text x="450.0" y="87.0" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" fill="#C9D1D9">Public repositories</text>
 <text x="450.0" y="105.0" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#00BFFF">14</text>
@@ -35,10 +35,10 @@
 <text x="669.7" y="264.6" text-anchor="start" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#00BFFF">5</text>
 <text x="585.8" y="504.9" text-anchor="start" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" fill="#C9D1D9">Updated in 90 days</text>
 <text x="585.8" y="522.9" text-anchor="start" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#00BFFF">9</text>
-<text x="314.2" y="504.9" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" fill="#C9D1D9">Stars received</text>
-<text x="314.2" y="522.9" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#00BFFF">0</text>
-<text x="230.3" y="246.6" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" fill="#C9D1D9">Forks received</text>
-<text x="230.3" y="264.6" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#00BFFF">0</text>
-<text x="450.0" y="576.0" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#8B949E">Raw counts shown at each axis. Activity indicators are not measures of technical skill.</text>
-<text x="450.0" y="596.0" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="400" fill="#6E7681">Updated 27 Oct 2026, 23:55 WIB</text>
+<text x="314.2" y="504.9" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" fill="#C9D1D9">Push events</text>
+<text x="314.2" y="522.9" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#00BFFF">137 / 30d</text>
+<text x="230.3" y="246.6" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" fill="#C9D1D9">PRs opened</text>
+<text x="230.3" y="264.6" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#00BFFF">0 / 30d</text>
+<text x="450.0" y="576.0" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#8B949E">Events API history is limited to 30 days and 300 events; these are not skill measures.</text>
+<text x="450.0" y="596.0" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="400" fill="#6E7681">Updated 28 Oct 2026, 00:00 WIB</text>
 </svg>
