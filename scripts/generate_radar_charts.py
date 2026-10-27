@@ -233,23 +233,29 @@ def fetch_public_events(username: str, *, max_pages: int = 3) -> list[dict]:
 
 
 def generate_activity_chart(username: str, updated: str, now: datetime) -> str:
+    """Render a radar from public repository metadata and recent public events.
+
+    "Issues updated" counts issue activity events (opened, closed, reopened,
+    assigned, unassigned, labeled, unlabeled) and issue comments created in the
+    last 30 days. Pull-request events are excluded. This is a count of events,
+    not unique issues.
+    """
     repos = fetch_public_repositories(username)
     primary_languages = {str(r.get("language")).strip() for r in repos if r.get("language")}
-    cutoff = now.astimezone(timezone.utc) - timedelta(days=90)
+    cutoff = now.astimezone(timezone.utc) - timedelta(days=30)
     recently_updated = 0
     for repo in repos:
         updated_at = parse_timestamp(repo.get("updated_at"))
         if updated_at and updated_at >= cutoff:
             recently_updated += 1
 
-    # GitHub's public Events API exposes only the latest 30 days and at most 300 events.
-    # Count push events and public issue opened/closed actions in that window.
-    # GitHub's public Events API exposes only the latest 30 days and at most 300 events.
+    # The public Events API exposes at most 300 events from the last 30 days.
     events_cutoff = now.astimezone(timezone.utc) - timedelta(days=30)
     public_events = fetch_public_events(username)
     push_events_30d = 0
-    issues_opened_30d = 0
-    issues_closed_30d = 0
+    issues_updated_30d = 0
+    issue_actions = {"opened", "closed", "reopened", "assigned", "unassigned", "labeled", "unlabeled"}
+
     for event in public_events:
         event_time = parse_timestamp(event.get("created_at"))
         if not event_time or event_time < events_cutoff:
@@ -259,32 +265,35 @@ def generate_activity_chart(username: str, updated: str, now: datetime) -> str:
         payload = event.get("payload") or {}
         if event_type == "PushEvent":
             push_events_30d += 1
-        elif event_type == "IssuesEvent":
+        elif event_type in {"IssuesEvent", "IssueCommentEvent"}:
+            issue = payload.get("issue") or {}
+            # GitHub models pull requests as a kind of issue in some API responses.
+            # Exclude those so this metric reflects issues rather than pull requests.
+            if isinstance(issue, dict) and issue.get("pull_request"):
+                continue
             action = payload.get("action")
-            if action == "opened":
-                issues_opened_30d += 1
-            elif action == "closed":
-                issues_closed_30d += 1
+            if event_type == "IssuesEvent" and action in issue_actions:
+                issues_updated_30d += 1
+            elif event_type == "IssueCommentEvent" and action == "created":
+                issues_updated_30d += 1
 
-    # Scores are normalized to display targets, not to other GitHub users.
+    # Scores are normalized against display targets, not ranked against other users.
     scores = [
         normalized_linear(len(repos), 20),
         normalized_linear(len(primary_languages), 8),
         normalized_linear(recently_updated, 10),
         normalized_log(push_events_30d, 50),
-        normalized_log(issues_opened_30d, 20),
-        normalized_log(issues_closed_30d, 20),
+        normalized_log(issues_updated_30d, 30),
     ]
     labels = [
         ("Public repositories", str(len(repos))),
         ("Primary languages", str(len(primary_languages))),
-        ("Updated in 90 days", str(recently_updated)),
+        ("Updated in 30 days", str(recently_updated)),
         ("Push events", f"{push_events_30d} / 30d"),
-        ("Issues opened", f"{issues_opened_30d} / 30d"),
-        ("Issues closed", f"{issues_closed_30d} / 30d"),
+        ("Issues updated", f"{issues_updated_30d} events / 30d"),
     ]
     subtitle = f"Public repository metadata + recent public events · @{username}"
-    footer = "Events API history is limited to 30 days and 300 events; these are not skill measures."
+    footer = "Issue activity counts events, not unique issues; public Events API is limited to 300 events / 30 days."
     return build_radar_svg(
         title="GITHUB ACTIVITY RADAR",
         subtitle=subtitle,
