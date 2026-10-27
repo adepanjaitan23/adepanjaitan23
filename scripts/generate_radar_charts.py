@@ -216,11 +216,25 @@ def generate_skills_chart(config: dict, updated: str) -> str:
     )
 
 
+def fetch_public_events(username: str, *, max_pages: int = 3) -> list[dict]:
+    """Fetch up to 300 recent public events exposed by GitHub's Events API."""
+    events: list[dict] = []
+    for page in range(1, max_pages + 1):
+        query = urllib.parse.urlencode({"per_page": 100, "page": page})
+        data = api_get(
+            f"{API_BASE}/users/{urllib.parse.quote(username)}/events/public?{query}"
+        )
+        if not isinstance(data, list):
+            raise RuntimeError("GitHub API response for public events was not a list.")
+        events.extend(data)
+        if len(data) < 100:
+            break
+    return events
+
+
 def generate_activity_chart(username: str, updated: str, now: datetime) -> str:
     repos = fetch_public_repositories(username)
     primary_languages = {str(r.get("language")).strip() for r in repos if r.get("language")}
-    total_stars = sum(int(r.get("stargazers_count") or 0) for r in repos)
-    total_forks = sum(int(r.get("forks_count") or 0) for r in repos)
     cutoff = now.astimezone(timezone.utc) - timedelta(days=90)
     recently_updated = 0
     for repo in repos:
@@ -228,23 +242,41 @@ def generate_activity_chart(username: str, updated: str, now: datetime) -> str:
         if updated_at and updated_at >= cutoff:
             recently_updated += 1
 
-    # Each signal is normalized to a transparent display target, not skill level.
+    # GitHub's public Events API exposes only the latest 30 days and at most 300 events.
+    # Count event types instead of inferring commit totals from fields not guaranteed by the API.
+    events_cutoff = now.astimezone(timezone.utc) - timedelta(days=30)
+    public_events = fetch_public_events(username)
+    push_events_30d = 0
+    prs_opened_30d = 0
+    for event in public_events:
+        event_time = parse_timestamp(event.get("created_at"))
+        if not event_time or event_time < events_cutoff:
+            continue
+
+        event_type = event.get("type")
+        payload = event.get("payload") or {}
+        if event_type == "PushEvent":
+            push_events_30d += 1
+        elif event_type == "PullRequestEvent" and payload.get("action") == "opened":
+            prs_opened_30d += 1
+
+    # Scores are normalized to display targets, not to other GitHub users.
     scores = [
         normalized_linear(len(repos), 20),
         normalized_linear(len(primary_languages), 8),
         normalized_linear(recently_updated, 10),
-        normalized_log(total_stars, 100),
-        normalized_log(total_forks, 30),
+        normalized_log(push_events_30d, 50),
+        normalized_log(prs_opened_30d, 10),
     ]
     labels = [
         ("Public repositories", str(len(repos))),
         ("Primary languages", str(len(primary_languages))),
         ("Updated in 90 days", str(recently_updated)),
-        ("Stars received", str(total_stars)),
-        ("Forks received", str(total_forks)),
+        ("Push events", f"{push_events_30d} / 30d"),
+        ("PRs opened", f"{prs_opened_30d} / 30d"),
     ]
-    subtitle = f"Public GitHub activity · @{username} · normalized display scale 0–100"
-    footer = "Raw counts shown at each axis. Activity indicators are not measures of technical skill."
+    subtitle = f"Public repository metadata + recent public events · @{username}"
+    footer = "Events API history is limited to 30 days and 300 events; these are not skill measures."
     return build_radar_svg(
         title="GITHUB ACTIVITY RADAR",
         subtitle=subtitle,
