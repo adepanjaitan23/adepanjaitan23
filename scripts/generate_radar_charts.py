@@ -62,8 +62,9 @@ def fetch_public_repositories(username: str) -> list[dict]:
     repos: list[dict] = []
     page = 1
     while True:
+        # GET /users/{username}/repos already lists public repositories.
+        # The endpoint's `type` parameter accepts all, owner, or member, not public.
         query = urllib.parse.urlencode({
-            "type": "public",
             "sort": "updated",
             "direction": "desc",
             "per_page": 100,
