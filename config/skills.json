@@ -1,0 +1,13 @@
+{
+  "username": "adepanjaitan23",
+  "title": "SKILLS RADAR",
+  "subtitle": "Self-assessed technical skills · scale 0–100",
+  "skills": [
+    {"label": "Machine Learning", "score": 90},
+    {"label": "Computer Vision", "score": 85},
+    {"label": "Deep Learning", "score": 80},
+    {"label": "Data Science", "score": 75},
+    {"label": "Python", "score": 95},
+    {"label": "Databases", "score": 70}
+  ]
+}
