@@ -243,11 +243,13 @@ def generate_activity_chart(username: str, updated: str, now: datetime) -> str:
             recently_updated += 1
 
     # GitHub's public Events API exposes only the latest 30 days and at most 300 events.
-    # Count push events and public repository-creation events in that window.
+    # Count push events and public issue opened/closed actions in that window.
+    # GitHub's public Events API exposes only the latest 30 days and at most 300 events.
     events_cutoff = now.astimezone(timezone.utc) - timedelta(days=30)
     public_events = fetch_public_events(username)
     push_events_30d = 0
-    public_repos_created_30d: set[str] = set()
+    issues_opened_30d = 0
+    issues_closed_30d = 0
     for event in public_events:
         event_time = parse_timestamp(event.get("created_at"))
         if not event_time or event_time < events_cutoff:
@@ -257,12 +259,12 @@ def generate_activity_chart(username: str, updated: str, now: datetime) -> str:
         payload = event.get("payload") or {}
         if event_type == "PushEvent":
             push_events_30d += 1
-        elif event_type == "CreateEvent" and payload.get("ref_type") == "repository":
-            # The public events endpoint exposes public events only. Count unique repo names
-            # so accidental duplicate event records do not inflate this metric.
-            repo_name = (event.get("repo") or {}).get("name")
-            if repo_name:
-                public_repos_created_30d.add(repo_name)
+        elif event_type == "IssuesEvent":
+            action = payload.get("action")
+            if action == "opened":
+                issues_opened_30d += 1
+            elif action == "closed":
+                issues_closed_30d += 1
 
     # Scores are normalized to display targets, not to other GitHub users.
     scores = [
@@ -270,14 +272,16 @@ def generate_activity_chart(username: str, updated: str, now: datetime) -> str:
         normalized_linear(len(primary_languages), 8),
         normalized_linear(recently_updated, 10),
         normalized_log(push_events_30d, 50),
-        normalized_log(len(public_repos_created_30d), 5),
+        normalized_log(issues_opened_30d, 20),
+        normalized_log(issues_closed_30d, 20),
     ]
     labels = [
         ("Public repositories", str(len(repos))),
         ("Primary languages", str(len(primary_languages))),
         ("Updated in 90 days", str(recently_updated)),
         ("Push events", f"{push_events_30d} / 30d"),
-        ("Public repos created", f"{len(public_repos_created_30d)} / 30d"),
+        ("Issues opened", f"{issues_opened_30d} / 30d"),
+        ("Issues closed", f"{issues_closed_30d} / 30d"),
     ]
     subtitle = f"Public repository metadata + recent public events · @{username}"
     footer = "Events API history is limited to 30 days and 300 events; these are not skill measures."
