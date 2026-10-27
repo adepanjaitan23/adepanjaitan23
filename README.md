@@ -1,21 +1,49 @@
-<h2 align="center">Technical Focus</h2>
+
+<!-- ================================================== -->
+<!-- ANIMATED INTRO                                     -->
+<!-- ================================================== -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-0EA5E9?style=for-the-badge" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/Data%20Science-16A34A?style=for-the-badge" alt="Data Science" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Databases-4B5563?style=for-the-badge" alt="Databases" />
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=55&amp;lines=Machine+Learning+%7C+Computer+Vision;Deep+Learning+%7C+Data+Science;Building+with+Python"
+    alt="Animated Developer Introduction"
+  />
+</p>
+
+<p align="center">
+  <i>Understand data. Build models. Create impact.</i>
+</p>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=flat-square"
+    alt="Machine Learning"
+  />
+  <img
+    src="https://img.shields.io/badge/Computer%20Vision-0EA5E9?style=flat-square"
+    alt="Computer Vision"
+  />
+  <img
+    src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=flat-square"
+    alt="Deep Learning"
+  />
+  <img
+    src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"
+    alt="Python"
+  />
+  <img
+    src="https://img.shields.io/badge/Data%20Science-16A34A?style=flat-square"
+    alt="Data Science"
+  />
 </p>
 
 <br>
 
 <!-- ================================================== -->
-<!-- SKILLS & LANGUAGES                                 -->
+<!-- SKILL MAP                                           -->
 <!-- ================================================== -->
 
-<h2 align="center">Skills &amp; Languages</h2>
+<h2 align="center">My Skill Map</h2>
 
 <p align="center">
   <img
@@ -35,13 +63,13 @@
 <br>
 
 <!-- ================================================== -->
-<!-- GITHUB ANALYTICS                                   -->
+<!-- CODING RHYTHM                                       -->
 <!-- ================================================== -->
 
-<h2 align="center">GitHub Analytics</h2>
+<h2 align="center">My Coding Rhythm</h2>
 
 <p align="center">
-  <i>Tracking my coding activity and development progress.</i>
+  <i>Every commit is a step forward.</i>
 </p>
 
 <p align="center">
@@ -53,14 +81,6 @@
     />
   </a>
 </p>
-
-<br>
-
-<!-- ================================================== -->
-<!-- CONTRIBUTION STREAK                                -->
-<!-- ================================================== -->
-
-<h2 align="center">Contribution Streak</h2>
 
 <p align="center">
   <a href="https://github.com/adepanjaitan23">
@@ -75,23 +95,37 @@
 <br>
 
 <!-- ================================================== -->
-<!-- CONTRIBUTION ACTIVITY                              -->
+<!-- CONTRIBUTION ARCADE                                 -->
 <!-- ================================================== -->
 
-<h2 align="center">Contribution Activity</h2>
+<h2 align="center">Contribution Arcade</h2>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph-dark.svg?sanitize=true"
-    alt="Pacman GitHub Contribution Graph"
-    width="100%"
-  />
+  <i>Turning contributions into a little game.</i>
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph.svg"
+      alt="Pacman Contribution Animation"
+      width="100%"
+    />
+  </picture>
 </p>
 
 <br>
 
 <!-- ================================================== -->
-<!-- CONTACT                                            -->
+<!-- CONNECT                                             -->
 <!-- ================================================== -->
 
 <h2 align="center">Let's Connect</h2>
@@ -125,4 +159,12 @@
 
 <p align="center">
   <sub>Indonesia · AI &amp; Machine Learning · Building things with code</sub>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&amp;height=4&amp;color=0:2563EB,100:7C3AED"
+    alt=""
+    width="100%"
+  />
 </p>
