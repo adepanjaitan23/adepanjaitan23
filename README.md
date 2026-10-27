@@ -1,7 +1,12 @@
 <p align="center">
-  <img src="./assets/terminal-boot.svg" alt="Animated terminal boot screen" width="100%" />
+  <a href="https://github.com/adepanjaitan23/adepanjaitan23/issues/1#issue-6062370415">
+    <img
+      src="./assets/terminal-boot.svg"
+      alt="Animated terminal boot screen"
+      width="100%"
+    />
+  </a>
 </p>
-
 
 <h2 align="center">Skill Map</h2>
 
@@ -20,7 +25,6 @@
   </a>
 </p>
 
-
 <h2 align="center">GitHub Streak</h2>
 
 <p align="center">
@@ -32,12 +36,6 @@
     />
   </a>
 </p>
-
-
-<p align="center">
-  <img src="./assets/arcade-hud.svg" alt="Arcade player status animation" width="100%" />
-</p>
-
 
 <h2 align="center">Contribution Arcade</h2>
 
@@ -58,7 +56,6 @@
     />
   </picture>
 </p>
-
 
 <h2 align="center">Let's Connect</h2>
 
