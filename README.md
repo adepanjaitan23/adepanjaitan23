@@ -1,8 +1,18 @@
 
+<h2 align="center">Contribution Orbit</h2>
+
 <p align="center">
-  <a href="https://github.com/adepanjaitan23/adepanjaitan23/issues/1#issue-6062370415">
-    <img src="./assets/terminal-boot.svg" alt="Animated Terminal Boot Screen" width="100%" />
-  </a>
+  <picture>
+    <source
+      media="(prefers-reduced-motion: reduce)"
+      srcset="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/comet-graph/comet-reduced.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/comet-graph/comet.svg"
+      alt="GitHub Comet Contribution Graph"
+      width="100%"
+    />
+  </picture>
 </p>
 
 <h2 align="center">Skill Map</h2>
