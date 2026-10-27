@@ -243,11 +243,11 @@ def generate_activity_chart(username: str, updated: str, now: datetime) -> str:
             recently_updated += 1
 
     # GitHub's public Events API exposes only the latest 30 days and at most 300 events.
-    # Count event types instead of inferring commit totals from fields not guaranteed by the API.
+    # Count push and published-release events; these are public activity indicators, not skill measures.
     events_cutoff = now.astimezone(timezone.utc) - timedelta(days=30)
     public_events = fetch_public_events(username)
     push_events_30d = 0
-    prs_opened_30d = 0
+    releases_published_30d = 0
     for event in public_events:
         event_time = parse_timestamp(event.get("created_at"))
         if not event_time or event_time < events_cutoff:
@@ -257,8 +257,8 @@ def generate_activity_chart(username: str, updated: str, now: datetime) -> str:
         payload = event.get("payload") or {}
         if event_type == "PushEvent":
             push_events_30d += 1
-        elif event_type == "PullRequestEvent" and payload.get("action") == "opened":
-            prs_opened_30d += 1
+        elif event_type == "ReleaseEvent" and payload.get("action") == "published":
+            releases_published_30d += 1
 
     # Scores are normalized to display targets, not to other GitHub users.
     scores = [
@@ -266,14 +266,14 @@ def generate_activity_chart(username: str, updated: str, now: datetime) -> str:
         normalized_linear(len(primary_languages), 8),
         normalized_linear(recently_updated, 10),
         normalized_log(push_events_30d, 50),
-        normalized_log(prs_opened_30d, 10),
+        normalized_log(releases_published_30d, 5),
     ]
     labels = [
         ("Public repositories", str(len(repos))),
         ("Primary languages", str(len(primary_languages))),
         ("Updated in 90 days", str(recently_updated)),
         ("Push events", f"{push_events_30d} / 30d"),
-        ("PRs opened", f"{prs_opened_30d} / 30d"),
+        ("Releases published", f"{releases_published_30d} / 30d"),
     ]
     subtitle = f"Public repository metadata + recent public events · @{username}"
     footer = "Events API history is limited to 30 days and 300 events; these are not skill measures."
