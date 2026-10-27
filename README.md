@@ -1,10 +1,7 @@
+
 <p align="center">
   <a href="https://github.com/adepanjaitan23/adepanjaitan23/issues/1#issue-6062370415">
-    <img
-      src="https://github.com/adepanjaitan23/adepanjaitan23/issues/1#issue-6062370415"
-      alt="Animated terminal boot screen"
-      width="100%"
-    />
+    <img src="./assets/terminal-boot.svg" alt="Animated Terminal Boot Screen" width="100%" />
   </a>
 </p>
 
