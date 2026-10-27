@@ -63,7 +63,6 @@ def fetch_public_repositories(username: str) -> list[dict]:
     page = 1
     while True:
         query = urllib.parse.urlencode({
-            "type": "public",
             "sort": "updated",
             "direction": "desc",
             "per_page": 100,
