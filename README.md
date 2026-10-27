@@ -1,13 +1,3 @@
-<h2 align="center">Contribution Orbit</h2>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/comet-graph/comet.svg"
-    alt="GitHub Comet Contribution Graph"
-    width="100%"
-  />
-</p>
-
 <h2 align="center">Skill Map</h2>
 
 <p align="center">
@@ -55,6 +45,15 @@
       width="100%"
     />
   </picture>
+</p>
+<h2 align="center">Contribution Orbit</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/comet-graph/comet.svg"
+    alt="GitHub Comet Contribution Graph"
+    width="100%"
+  />
 </p>
 
 <h2 align="center">Let's Connect</h2>
