@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/terminal-boot.svg" alt="Animated terminal boot screen" width="100%" />
+</p>
+
 
 <h2 align="center">Skill Map</h2>
 
@@ -16,7 +20,6 @@
   </a>
 </p>
 
-<br>
 
 <h2 align="center">GitHub Streak</h2>
 
@@ -30,46 +33,47 @@
   </a>
 </p>
 
-<br>
+
+<p align="center">
+  <img src="./assets/arcade-hud.svg" alt="Arcade player status animation" width="100%" />
+</p>
+
 
 <h2 align="center">Contribution Arcade</h2>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph-dark.svg"
-    alt="Pacman Contribution Graph"
-    width="100%"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/adepanjaitan23/adepanjaitan23/output/pacman-contribution-graph.svg"
+      alt="Pacman Contribution Graph"
+      width="100%"
+    />
+  </picture>
 </p>
 
-<br>
 
 <h2 align="center">Let's Connect</h2>
 
 <p align="center">
   <a href="mailto:aderizkypan@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
-      alt="Email"
-    />
+    <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/aderizkypanjaitan">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/adepanjaitan23">
-    <img
-      src="https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white"
-      alt="GitHub"
-    />
+    <img src="https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
   </a>
   <a href="https://instagram.com/adepanjaitan_">
-    <img
-      src="https://img.shields.io/badge/Instagram-2563EB?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"
-      alt="Instagram"
-    />
+    <img src="https://img.shields.io/badge/Instagram-2563EB?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" />
   </a>
 </p>
 
