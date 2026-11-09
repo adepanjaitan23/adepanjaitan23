@@ -23,10 +23,10 @@
 <line x1="450.0" y1="318.0" x2="554.6" y2="462.0" stroke="#30363D" stroke-width="1"/>
 <line x1="450.0" y1="318.0" x2="345.4" y2="462.0" stroke="#30363D" stroke-width="1"/>
 <line x1="450.0" y1="318.0" x2="280.7" y2="263.0" stroke="#30363D" stroke-width="1"/>
-<polygon points="450.0,193.4 555.8,283.6 523.2,418.8 345.4,462.0 370.7,292.2" fill="url(#areaFill)" stroke="#00BFFF" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="450.0,193.4 555.8,283.6 491.9,375.6 345.4,462.0 370.7,292.2" fill="url(#areaFill)" stroke="#00BFFF" stroke-width="3" stroke-linejoin="round"/>
 <circle cx="450.0" cy="193.4" r="5" fill="#00BFFF" stroke="#0D1117" stroke-width="2"/>
 <circle cx="555.8" cy="283.6" r="5" fill="#00BFFF" stroke="#0D1117" stroke-width="2"/>
-<circle cx="523.2" cy="418.8" r="5" fill="#00BFFF" stroke="#0D1117" stroke-width="2"/>
+<circle cx="491.9" cy="375.6" r="5" fill="#00BFFF" stroke="#0D1117" stroke-width="2"/>
 <circle cx="345.4" cy="462.0" r="5" fill="#00BFFF" stroke="#0D1117" stroke-width="2"/>
 <circle cx="370.7" cy="292.2" r="5" fill="#00BFFF" stroke="#0D1117" stroke-width="2"/>
 <text x="450.0" y="87.0" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" fill="#C9D1D9">Public repositories</text>
@@ -34,11 +34,11 @@
 <text x="669.7" y="246.6" text-anchor="start" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" fill="#C9D1D9">Primary languages</text>
 <text x="669.7" y="264.6" text-anchor="start" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#00BFFF">5</text>
 <text x="585.8" y="504.9" text-anchor="start" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" fill="#C9D1D9">Updated in 30 days</text>
-<text x="585.8" y="522.9" text-anchor="start" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#00BFFF">7</text>
+<text x="585.8" y="522.9" text-anchor="start" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#00BFFF">4</text>
 <text x="314.2" y="504.9" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" fill="#C9D1D9">Push events</text>
-<text x="314.2" y="522.9" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#00BFFF">176 / 30d</text>
+<text x="314.2" y="522.9" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#00BFFF">123 / 30d</text>
 <text x="230.3" y="246.6" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" fill="#C9D1D9">Issues updated</text>
 <text x="230.3" y="264.6" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#00BFFF">4 events / 30d</text>
 <text x="450.0" y="576.0" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#8B949E">Issue activity counts events, not unique issues; public Events API is limited to 300 events / 30 days.</text>
-<text x="450.0" y="596.0" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="400" fill="#6E7681">Updated 02 Nov 2026, 16:37 WIB</text>
+<text x="450.0" y="596.0" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="400" fill="#6E7681">Updated 09 Nov 2026, 16:54 WIB</text>
 </svg>
